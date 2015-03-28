@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository, it tells Git that it will be keeping track of the directory and changes to files within that direcorty. You have to do it in order to have Git create the needed hidden .git directory in which it will store the data about the file histories.

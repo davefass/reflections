@@ -1,0 +1,27 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Viewing a diff between two versions of a file pinpointed the specific changes without having to manually read through each line of code.
+
+How could having easy access to the entire history of a file make you a more effiecent programmer in the long term?
+
+Having easy access to the entire history of a file could make me a more efficient programmer by making it quicker and easier to roll back changes in case of a bug, or to compare new and old versions of the code to pinpoint bugs easier.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Manually choosing when to commit makes each commit a more logical and useful file version, but relies on the user to know when is a good time to make the commit. Automatic commits will circumvent lazy or forgetful committers, but at the expense of having each commit be a usable snapshot of the file.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while other, like Google Docs, treat each file separately?
+
+Depending on the types of files being managed and their intended use, it may be  more helpful to have the changes tracked per file as opposed to per repo.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log will show you the commit history of the active repo, with ID, date, timie, user and description. git diff will show you the additions and subtractions between different commit IDs.
+
+How might using version control make you more confident to make changes that could break something?
+
+Knowing that there's always a previous working version tracked by Git would make it easy to experiment in the code without having to worry about breaking something irreparably.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I'd like to test out using Git when creating a website.

@@ -5,3 +5,7 @@ When you initialize a repository, it tells Git that it will be keeping track of 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is a middleground between the working directory and the repository. It allows you to manually choose what gets added to the repository from the working directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can use the staging area to make sure you have one commit per logical change by being able to see the changes which need committing as well as what was changed in each file so you can pick and choose what gets added to each commit.

@@ -9,3 +9,7 @@ There might be a case where a change gets added to the remote that you're not re
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 A branch is a line of commits that is separate from the main, useful for working on or testing code that you may not want to add into the main branch until it's ready if at all. A clone is a copy of a repository, including all branches. A fork is a clone of a GitHub repository made to another GitHub account.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Being able to compare changes between the current master and the origin/master would be helpful and can be done without having to have an internet connection.

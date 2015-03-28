@@ -13,3 +13,7 @@ A branch is a line of commits that is separate from the main, useful for working
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Being able to compare changes between the current master and the origin/master would be helpful and can be done without having to have an internet connection.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+In the past, I have collaborated having to make sure that there's only one person editing the file at a time, or use something like Google docs that has built-in simultaneous multi-user editing support. Git and GitHub makes that much easier since it's much more flexible than using the above. The only hard part is that everyone collaborating needs to know how to use Git/GitHub, whereas something like Google docs is pretty simple to jump in without having used it previously.

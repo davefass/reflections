@@ -17,3 +17,7 @@ Branches would be helpful in splitting the code so you could try out new feature
 How do the diagrams help you visualize the branch structure?
 
 The diagrams are helpful to show the relationships between branches, as well as changes made before and after the creation of branches so you always know what point on the tree you're at.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches combines the last commits into a single file, bringing changes from both. Representing it in the diagram gives you a visualization of what changes will be brought into the new merged branch.

@@ -17,3 +17,7 @@ Being able to compare changes between the current master and the origin/master w
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 In the past, I have collaborated having to make sure that there's only one person editing the file at a time, or use something like Google docs that has built-in simultaneous multi-user editing support. Git and GitHub makes that much easier since it's much more flexible than using the above. The only hard part is that everyone collaborating needs to know how to use Git/GitHub, whereas something like Google docs is pretty simple to jump in without having used it previously.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You might want to make changes in a separate branch if you're working on some new code and want to keep a stable master branch. It might be more complicated than just editing master directly, but it might be a safer way to work, depending on the situation.
